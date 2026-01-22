@@ -15,6 +15,6 @@ For code and repository questions, please contact the maintainers or open an iss
 - [@kosrenDQ](https://github.com/kosrenDQ)
 - [@darioklapp](https://github.com/darioklapp)
 
-For general questions about the Re4DE project or the potential of dataspaces in the German energy sector, please reach out to the [Future Energy Lab](https://www.future-energy-lab.de/).
+For general questions about Re4DE and potential of dataspaces in the German energy sector, please reach out to the [Future Energy Lab](https://www.future-energy-lab.de/).
 
 For contribution guidelines, please refer to the [CONTRIBUTING.md](https://github.com/Re4DE/.github/blob/main/CONTRIBUTING.md) file.
