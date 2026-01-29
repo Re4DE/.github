@@ -1,6 +1,6 @@
 # Welcome to Re4DE!
 
-The reference system for data exchange in the energy sector (German: *Referenzsystem für den Datenaustausch im Energiesektor*) (Re4DE) provides solutions for data spaces: 
+The **reference system for data exchange in the energy sector** (German: *Referenzsystem für den Datenaustausch im Energiesektor*) (Re4DE) provides solutions for data spaces: 
 * Data space connector [(based on Eclipse Dataspace Components (EDC))]( https://github.com/eclipse-edc)
 * Identity Hub
 * Data space Issuer
@@ -12,7 +12,7 @@ Special thanks to our developers, [@kosrenDQ](https://github.com/kosrenDQ) and [
 
 For more projects by the Future Energy Lab visit our GitHub Account: [https://github.com/Future-Energy-Lab](https://github.com/Future-Energy-Lab) 
 
-The Code will be published in February. 
+The Re4DE Code will be published in February. 
 
 
 ## Licensing
@@ -36,7 +36,7 @@ For contribution guidelines, please refer to the [CONTRIBUTING.md](https://githu
 
 # Willkommen bei Re4DE!
 
-Das Referenzsystem für den Datenaustausch im Energiesektor stellt Lösungen für Datenräume bereit: 
+Das **Referenzsystem für den Datenaustausch im Energiesektor (Re4DE)** stellt Lösungen für Datenräume bereit: 
 * Datenraum-Konnektor [(based on Eclipse Dataspace Components (EDC))]( https://github.com/eclipse-edc)
 * Identity Hub
 * Data space Issuer
@@ -45,7 +45,10 @@ Das Referenzsystem für den Datenaustausch im Energiesektor stellt Lösungen fü
 
 Diese Lösungen wurden im Projekt [Dateninstitut – Use Case Energie]( https://www.future-energy-dialog.de/de) entwickelt, das vom Future Energy Lab der Deutschen Energie-Agentur (dena) im Auftrag des Bundesministeriums für Digitales und Staatsmodernisierung (BMDS) geleitet wird.
 Ein besonderes Dankeschön gilt unseren Entwicklern [@kosrenDQ](https://github.com/kosrenDQ) und [@darioklapp](https://github.com/darioklapp) vom Fraunhofer-Institut für Energiewirtschaft und Energiesystemtechnik (Fraunhofer IEE), die es möglich gemacht haben, die Deutsche Smart Meter PKI und selbstbestimmte Identität (Self-Sovereign Identity, SSI) als Lösungen im Datenraum zu kombinieren. 
+
 Lösungen aus weiteren Projekten gibt es auf der GitHub Seite des Future Energy Lab: [https://github.com/Future-Energy-Lab](https://github.com/Future-Energy-Lab) 
+
+Der Re4DE Code wird im Februar veröffentlicht.
 
 ## Lizensierung 
 
@@ -63,4 +66,5 @@ Bei Fragen zum Code und zum Repository sind folgende Maintainer die richtigen An
 Bei Fragen zu Re4DE oder Datenräumen im deutschen Energiesystem kontaktiert gerne das [Future Energy Lab](https://www.future-energy-lab.de/): futureenergylab@dena.de
 
 Richtlinien für Beiträge: [CONTRIBUTING.md](https://github.com/Re4DE/.github/blob/main/CONTRIBUTING.md)
+
 
