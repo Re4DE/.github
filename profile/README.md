@@ -12,8 +12,6 @@ Special thanks to our developers, [@kosrenDQ](https://github.com/kosrenDQ) and [
 
 For more projects by the Future Energy Lab visit our GitHub Account: [https://github.com/Future-Energy-Lab](https://github.com/Future-Energy-Lab) 
 
-The Re4DE Code will be published in February. 
-
 
 ## Licensing
 
@@ -48,8 +46,6 @@ Ein besonderes Dankeschön gilt unseren Entwicklern [@kosrenDQ](https://github.c
 
 Lösungen aus weiteren Projekten gibt es auf der GitHub Seite des Future Energy Lab: [https://github.com/Future-Energy-Lab](https://github.com/Future-Energy-Lab) 
 
-Der Re4DE Code wird im Februar veröffentlicht.
-
 ## Lizensierung 
 
 Jedes Repository enthält eine eigene Lizenzdatei.  
@@ -66,5 +62,6 @@ Bei Fragen zum Code und zum Repository sind folgende Maintainer die richtigen An
 Bei Fragen zu Re4DE oder Datenräumen im deutschen Energiesystem kontaktiert gerne das [Future Energy Lab](https://www.future-energy-lab.de/): futureenergylab@dena.de
 
 Richtlinien für Beiträge: [CONTRIBUTING.md](https://github.com/Re4DE/.github/blob/main/CONTRIBUTING.md)
+
 
 
