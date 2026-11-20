@@ -7,7 +7,7 @@ The **reference system for data exchange in the energy sector** (German: *Refere
 * Connector Registry
 * Dashboard UI for the connector 
 
-The solutions were developed in the project [“Use Case Energy  ”]( https://www.future-energy-dialog.de/de) led by the Future Energy Lab of the German Energy Agency  on behalf of the Federal Ministry for Digitalisation and State Modernisation (BMDS). 
+The solutions were developed in the project "Use Case Energy" led by the Future Energy Lab of the German Energy Agency  on behalf of the Federal Ministry for Digitalisation and State Modernisation (BMDS). 
 Special thanks to our developers, [@kosrenDQ](https://github.com/kosrenDQ) and [@darioklapp](https://github.com/darioklapp), at the Fraunhofer Institute for Energy Economics and Energy System Technology (Fraunhofer IEE) who made it possible to combine the German Smart Meter PKI and Self-Sovereign Identity (SSI) as identity solutions for the data space.
 
 For more projects by the Future Energy Lab visit our GitHub Account: [https://github.com/Future-Energy-Lab](https://github.com/Future-Energy-Lab) 
@@ -41,7 +41,7 @@ Das **Referenzsystem für den Datenaustausch im Energiesektor (Re4DE)** stellt L
 * Connector Registry
 * Dashboard-UI für den Konnektor
 
-Diese Lösungen wurden im Projekt [Use Case Energie]( https://www.future-energy-dialog.de/de) entwickelt, das vom Future Energy Lab der Deutschen Energie-Agentur (dena) im Auftrag des Bundesministeriums für Digitales und Staatsmodernisierung (BMDS) geleitet wird.
+Diese Lösungen wurden im Projekt "Use Case Energy" entwickelt, das vom Future Energy Lab der Deutschen Energie-Agentur (dena) im Auftrag des Bundesministeriums für Digitales und Staatsmodernisierung (BMDS) geleitet wird.
 Ein besonderes Dankeschön gilt unseren Entwicklern [@kosrenDQ](https://github.com/kosrenDQ) und [@darioklapp](https://github.com/darioklapp) vom Fraunhofer-Institut für Energiewirtschaft und Energiesystemtechnik (Fraunhofer IEE), die es möglich gemacht haben, die Deutsche Smart Meter PKI und selbstbestimmte Identität (Self-Sovereign Identity, SSI) als Lösungen im Datenraum zu kombinieren. 
 
 Lösungen aus weiteren Projekten gibt es auf der GitHub Seite des Future Energy Lab: [https://github.com/Future-Energy-Lab](https://github.com/Future-Energy-Lab) 
